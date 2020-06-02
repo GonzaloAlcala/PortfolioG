@@ -6,17 +6,20 @@
 .header .navbar {
   background-color: transparent !important;
 }
-
+.bgdark{
+    background-color: #282828;
+    
+}
 .name{
     margin-left: 50px;
     font-family: 'Montserrat', sans-serif;
     text-decoration: none;
-    font-size: 34px;
+    font-size: 24px;
 }
 .menu{
     font-family: 'Montserrat', sans-serif;
     text-decoration: none;
-    font-size: 24px;
+    font-size: 16px;
 }
 .subTITLE{
     font-family: "Gravity-Regular";
@@ -144,7 +147,6 @@ img {
     border-style: none;
 }
 .homeImg.jsx-1808450649 {
-    background-image: url("forest.jpg");
     height: 100vh;
     background-position: center center;
     background-repeat: no-repeat;
@@ -171,4 +173,12 @@ img {
     font-weight: 500;
     line-height: 1.1;
     color: inherit;
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.sticky + .content {
+  padding-top: 60px;
 }
