@@ -1,0 +1,174 @@
+.header {
+  background: url("forest.jpg") no-repeat center;
+  background-size: cover;
+  min-height: 100vh;
+}
+.header .navbar {
+  background-color: transparent !important;
+}
+
+.name{
+    margin-left: 50px;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    font-size: 34px;
+}
+.menu{
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    font-size: 24px;
+}
+.subTITLE{
+    font-family: "Gravity-Regular";
+    letter-spacing: 10px;
+    padding-bottom: 60px;
+    margin-bottom: 0px;
+    
+}
+.subTEXT{
+    font-family: "Gravity-Regular";
+    font-size: 1em;
+    letter-spacing: 1px;
+    margin: 0px;
+    color:  white;
+}
+.backDark {
+    background-color: #191919;
+}
+.padY40 {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.container-fluid {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+    width: 100%;
+}
+.sec > .container {
+    padding-bottom: 60px;
+    padding-top: 60px;
+}
+.white {
+    color: white;
+}
+.container {
+    max-width: 1140px;
+}
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+    width: 100%;
+}
+.extPad {
+    padding-bottom: 60px;
+    padding-top: 20px;
+}
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.listPanel.jsx-617733361 .col-lg-3.jsx-617733361 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.listPanel{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.black{
+    color: black;
+}
+.padB40 {
+    padding-bottom: 40px;
+}
+.h5.jsx-3729832902 {
+    padding-bottom: 10px;
+}
+.bottomLinksDiv.jsx-3670029443 {
+    background-color: #191919;
+    padding: 30px;
+}
+.a {
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+.subP {
+    padding-left: 60px;
+    padding-right: 60px;
+    font-family: "Gravity-Regular";
+    font-size: 1em;
+    letter-spacing: 1px;
+}
+.footerText.jsx-3670029443 {
+    font-family: "Gravity-Regular";
+    text-align: center;
+    padding-bottom: 20px;
+    color: black;
+}
+.container-fluid {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+    width: 100%;
+}
+.extraSpace {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.centerLinks.jsx-3670029443 {
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+.fbody{
+    background-color: #282828;
+}
+img {
+    vertical-align: middle;
+    padding: 5px;
+    height: 50px;
+    border-style: none;
+}
+.homeImg.jsx-1808450649 {
+    background-image: url("forest.jpg");
+    height: 100vh;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+.Gravity-Book.jsx-617733361 {
+    font-family: "Gravity-Book";
+    color: white;
+}
+.titleMain {
+    font-family: "Gravity-Regular";
+    letter-spacing: 20px;
+    
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: .5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
